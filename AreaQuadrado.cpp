@@ -21,7 +21,7 @@ int main()
 
     // Saída de dados
     cout << endl;
-    cout << "Área do quadrado: " << area;
+    cout << "Área do quadrado: " << area << endl;
 
     return 0;
 }
